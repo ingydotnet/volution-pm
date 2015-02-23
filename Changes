@@ -1,4 +1,9 @@
 ---
+version: 0.0.2
+date:    Mon Feb 23 17:02:35 EST 2015
+changes:
+- Summon the cow!
+---
 version: 0.0.1
 date:    Mon Feb 23 16:58:06 EST 2015
 changes:
