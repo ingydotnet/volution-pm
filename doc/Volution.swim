@@ -1,0 +1,11 @@
+<<<cpan-head>>>
+
+= Synopsis
+
+  use Volution;
+
+= Description
+
+Volution is a new database migration tool authored by Ingy. Stay tuned.
+
+<<<cpan-tail>>>
